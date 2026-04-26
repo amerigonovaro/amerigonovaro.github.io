@@ -10,4 +10,4 @@ Welcome to my site. I'm a Ph.D. student at the Department of Statistical Science
 
 ## Research Interest
 
-My interests are in Extreme Values Theoru and Graphical Models.
+My interests are in Extreme Values Theory and Graphical Models.
