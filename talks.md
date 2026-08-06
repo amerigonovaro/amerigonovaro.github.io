@@ -15,7 +15,7 @@ title: Talks
 
 ### 2025
 
-- **Climbing Mortality Models II Workshop** (*Misurina (Belluno), Italy*)  
+- **Climbing Mortality Models II Workshop** (*Misurina, Italy*)  
   Presentation of the project *Evolution of Sub-National Longevity and Causes of Death Composition Using Data on Italian Provinces*, joint work with Davide Benussi, at the final CARONTE Workshop, August 27–29, 2025.
 
 - **Poster Session — SIS 2025** (*Genoa, Italy*)  
