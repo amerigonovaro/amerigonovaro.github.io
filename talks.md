@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Conferences
+title: Talks
 ---
 
-## Conferences
+## Talks
 
 - **Titolo conference** — Autori, *Journal*, 2024
 - **Altra conference** — Autori, *Conference*, 2023
