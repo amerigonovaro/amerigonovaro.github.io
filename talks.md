@@ -19,7 +19,7 @@ title: Talks
   Presentation of the project *Evolution of Sub-National Longevity and Causes of Death Composition Using Data on Italian Provinces*, joint work with Davide Benussi, at the final CARONTE Workshop, August 27–29, 2025.
 
 - **Poster Session — SIS 2025** (*Genoa, Italy*)  
-  Presentation of *Functional Approach to Understanding Characteristics and Intensities of Different Fundraising Campaigns*, joint work with Stefano Mazzuco, at the SIS Conference on Statistics for Innovation, June 16–18, 2025.
+  Presentation of the work *Functional Approach to Understanding Characteristics and Intensities of Different Fundraising Campaigns*, joint work with Stefano Mazzuco, at the SIS Conference on Statistics for Innovation, June 16–18, 2025.
 
 
 
