@@ -14,15 +14,7 @@ I'm currently working on Graphical Models for Multivariate Extremes, under the s
 
 My research focuses on statistical methodology, in particular on graphical models and multivariate extreme value theory. In the past, I have also worked on Functional Data Analysis and Bayesian modeling for mortality data.
 
-## Contacts
-
-✉ [amerigo.novaro@phd.unipd.it](mailto:amerigo.novaro@phd.unipd.it)
-
-in [LinkedIn](https://it.linkedin.com/in/amerigo-novaro-19b3a1285)
-
-⌘ [GitHub](https://github.com/amerigonovaro)
-
-## Contacts
+##  
 
 <div style="display:flex; gap:15px; align-items:center;">
   <a href="mailto:amerigo.novaro@phd.unipd.it">
