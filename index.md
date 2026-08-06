@@ -16,6 +16,8 @@ My research focuses on statistical methodology, in particular on graphical model
 
 ## Contacts
 
-✉ [amerigo.novaro@phd.unipd.it](mailto:amerigo.novaro@phd.unipd.it) ·
-in [LinkedIn](https://it.linkedin.com/in/amerigo-novaro-19b3a1285) ·
+✉ [amerigo.novaro@phd.unipd.it](mailto:amerigo.novaro@phd.unipd.it)
+
+in [LinkedIn](https://it.linkedin.com/in/amerigo-novaro-19b3a1285)
+
 ⌘ [GitHub](https://github.com/amerigonovaro)
