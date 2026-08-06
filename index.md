@@ -25,11 +25,8 @@ in [LinkedIn](https://it.linkedin.com/in/amerigo-novaro-19b3a1285)
 
 ## Contacts
 
-<a href="mailto:amerigo.novaro@phd.unipd.it">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="25" height="25">
-
-<a href="https://it.linkedin.com/in/amerigo-novaro-19b3a1285">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="25" height="25">
-
-<a href="https://github.com/amerigonovaro">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="25" height="25">
+<a href="mailto:amerigo.novaro@phd.unipd.it"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="25" height="25"></a>
+&nbsp;&nbsp;
+<a href="https://it.linkedin.com/in/amerigo-novaro-19b3a1285"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="25" height="25"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/amerigonovaro"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="25" height="25"></a>
