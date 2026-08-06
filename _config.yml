@@ -20,5 +20,5 @@ nav:
    link: "/"
  - name: "Publications"
    link: "/publications"
- - name: "Conferences"
-   link: "/conferences"
+ - name: "Talks"
+   link: "/talks"
