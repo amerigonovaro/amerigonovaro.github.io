@@ -38,13 +38,18 @@ in [LinkedIn](https://it.linkedin.com/in/amerigo-novaro-19b3a1285)
 </a>
 
 
-## Contact
+## Contacts
 
-<a href="mailto:amerigo.novaro@phd.unipd.it"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="18" style="vertical-align:middle"></a>
-<a href="mailto:amerigo.novaro@phd.unipd.it">Email</a> ·
-
-<a href="https://it.linkedin.com/in/amerigo-novaro-19b3a1285"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="18" style="vertical-align:middle"></a>
-<a href="https://it.linkedin.com/in/amerigo-novaro-19b3a1285">LinkedIn</a> ·
-
-<a href="https://github.com/amerigonovaro"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="18" style="vertical-align:middle"></a>
-<a href="https://github.com/amerigonovaro">GitHub</a>
+<p align="center">
+<a href="mailto:amerigo.novaro@phd.unipd.it">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="20">
+</a>
+&nbsp;
+<a href="https://it.linkedin.com/in/amerigo-novaro-19b3a1285">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20">
+</a>
+&nbsp;
+<a href="https://github.com/amerigonovaro">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="20">
+</a>
+</p>
