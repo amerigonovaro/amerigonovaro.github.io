@@ -58,3 +58,12 @@ value
 ### License
 
 [GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+
+
+
+### Modifications
+
+This website is based on the Researcher Jekyll template by Ankit Sultana.
+The template has been modified and adapted for this personal academic website.
+Modifications made in 2026.
+The modified template is released under the GNU General Public License v3.0.
