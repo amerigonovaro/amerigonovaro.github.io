@@ -8,7 +8,7 @@ layout: default
 
 Welcome to my site. I'm a Ph.D. student at the Department of Statistical Sciences of the University of Padua, Veneto, Italy. 
 
-I'm currently working on Graphical Models for Multivariate Extremes, under the supervision of Professor Carlo Gaetan and Professor Alberto Roverato. I am currently on a visiting period at the University of Geneva, under the supervision of Professor Sebastian Engelke. My short CV is available [here](amerigonovaro_shortcv.pdf).
+I'm currently working on Graphical Models for Multivariate Extremes, under the supervision of Professor Carlo Gaetan and Professor Alberto Roverato. I am currently on a visiting period at the University of Geneva, under the supervision of Professor Sebastian Engelke. My short CV is available [here](amerigo_novaro_shortcv.pdf).
 
 ## Research Interest
 
