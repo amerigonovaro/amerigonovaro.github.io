@@ -12,7 +12,7 @@ I'm currently working on Graphical Models for Multivariate Extremes, under the s
 
 ## Research Interest
 
-My research focuses on statistical methodology, in particular on graphical models and multivariate extreme value theory. In the past, I have also worked on Functional Data Analysis and Bayesian modeling for mortality data.
+My research focuses on statistical methodology, in particular on graphical models and multivariate extreme value theory. In the past, I have also worked on functional data analysis and Bayesian modeling for mortality data.
 
 ## Contacts
 
